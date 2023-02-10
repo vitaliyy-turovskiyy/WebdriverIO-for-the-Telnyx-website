@@ -39,7 +39,7 @@ For runnig in docker :
    npm run report
    ```
 ____
-### The test report implemented through GitHub pages can be seen [here]([https://vitaliyy-turovskiyy.github.io/CypressCucumber-Telnyx/](https://vitaliyy-turovskiyy.github.io/WebdriverIO-for-the-Telnyx-website/))
+### The test report implemented through GitHub pages can be seen [here](https://vitaliyy-turovskiyy.github.io/WebdriverIO-for-the-Telnyx-website/)
 
 
 
